@@ -1,0 +1,19 @@
+{
+  "name": "@averoa/repositories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/budiherma1/AveroaRepositories.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/budiherma1/AveroaRepositories/issues"
+  },
+  "homepage": "https://github.com/budiherma1/AveroaRepositories#readme"
+}
