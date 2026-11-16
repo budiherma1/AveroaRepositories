@@ -1,20 +1,21 @@
 {
   "name": "@averoa/repositories",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "DEPRECATED: re-exports app/Repositories for AveroaJS 1.x. Use the #repositories subpath import in AveroaJS 2.0.",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/budiherma1/AveroaRepositories.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Budi Hermawan",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/budiherma1/AveroaRepositories/issues"
   },
-  "homepage": "https://github.com/budiherma1/AveroaRepositories#readme"
+  "homepage": "https://github.com/budiherma1/AveroaRepositories#readme",
+  "keywords": [
+    "averoajs",
+    "deprecated"
+  ]
 }
