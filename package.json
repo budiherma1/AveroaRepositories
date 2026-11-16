@@ -1,6 +1,6 @@
 {
   "name": "@averoa/repositories",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "DEPRECATED: re-exports app/Repositories for AveroaJS 1.x. Use the #repositories subpath import in AveroaJS 2.0.",
   "main": "index.js",
   "type": "module",
